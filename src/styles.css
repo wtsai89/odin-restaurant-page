@@ -61,3 +61,13 @@ div#content > img {
     width: 50%;
     height: 50%;
 }
+
+.item {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+
+.contact {
+    padding: 20px;
+}
